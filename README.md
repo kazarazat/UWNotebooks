@@ -1,2 +1,2 @@
 # UWNotebooks
-A collection of Spyder files and Jupyter notebooks on projects and course assignments from the University of Washington certificate course in Data Science.
+A collection of Spyder files and Jupyter notebooks of Exploratory Data Analysis techniques from course work from the University of Washington certificate in Data Science program.
